@@ -1,5 +1,5 @@
 # Debug-Code-List
-A List Of Eboot &amp; Memory Patches To Enable The Debug Mode On Any PS4 Naughty Dog Game
+A (very old and probably outdated) List Of Eboot &amp; Memory Patches To Enable The Debug Mode On Any PS4 Naughty Dog Game
 
 Patch The .bin/.elf With The Hex Codes, OR Write [On 0x01] / [Off 0x00] To The Offset While The Game's Running. You Don't Need Both
 
